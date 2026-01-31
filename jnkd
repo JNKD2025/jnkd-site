@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial JNKD website"
 git branch -M main
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/jnkd-site.git
+git remote add origin https://github.com/JNKD2025/jnkd-site.git
 git push -u origin main
